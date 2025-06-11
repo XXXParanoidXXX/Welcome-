@@ -5,7 +5,7 @@
 :computer: I'm a Data Analyst!
 :house_with_garden: I’m from Brazil.
 :books: I’m currently learning everything about Data Engineering, Data Science and Data Analysis. I master SQL, Python, R, Power BI and Qlik Sense.
-:outbox_tray: 2024 Goals: create new projects and improve my skills.
+:outbox_tray: 2025 Goals: create new projects and improve my skills.
 
 # Card - Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XXXParanoidXXX&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
