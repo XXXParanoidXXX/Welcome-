@@ -4,9 +4,9 @@
  
 ## I'm Vinícius Lima! :skull:
  
-:computer: I'm a Data Analyst!
+:computer: I'm a Data Analyst and Team Manager!
 :house_with_garden: I’m from Brazil.
-:books: I’m currently learning everything about Data Engineering, Data Science and Data Analysis. I master SQL, Python, R, Power BI and Qlik Sense.
+:books: I’m currently learning everything about Data Engineering, Data Science, Data Analysis and Agile. I master SQL, Python, R, Power BI, Qlik Sense and Scrum.
 :outbox_tray: 2025 Goals: create new projects and improve my skills.
 
 # Card - Stats
