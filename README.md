@@ -1,6 +1,8 @@
-# Welcome!
+# Hello World! Welcome!
+
+![Darth Vader is in love...](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdarth-vader-gifs&psig=AOvVaw1AZ59P3dUTTcCxKopkFBkm&ust=1749866941885000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjQoMCo7Y0DFQAAAAAdAAAAABAE)
  
-## I'm Vinícius Lima!
+## I'm Vinícius Lima! :skull:
  
 :computer: I'm a Data Analyst!
 :house_with_garden: I’m from Brazil.
